@@ -1,6 +1,6 @@
 # PizzaPy
 
-Creates a conversational agent to order items from an Italian restuarant.
+Creates a conversational agent to order items from an Italian restaurant.
 
 Directions: 
 
